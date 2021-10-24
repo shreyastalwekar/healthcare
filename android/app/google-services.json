@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709873127164",
+    "project_id": "healthcare-3aa0d",
+    "storage_bucket": "healthcare-3aa0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709873127164:android:c7c2629eb5b1123b161179",
+        "android_client_info": {
+          "package_name": "com.example.motorgarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709873127164-atk66bdqd991mq6uonskfm2vkob9malt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8v8ZtaEnf1a_YVfxIV6Qn2TS2ACo3Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709873127164-atk66bdqd991mq6uonskfm2vkob9malt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
